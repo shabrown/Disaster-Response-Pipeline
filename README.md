@@ -55,7 +55,11 @@ There are three main foleders:
 
 An example of how the app classify the message.
 Original message "Please, we need tents and water. We are in Silo, Thank you!"
+
+
 <img src="app message screeshot.png" width="80%" alt="disaster response project web app">
+
+
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
