@@ -11,12 +11,12 @@
 
 ## Installation <a name="installation"></a>
 
-sikit-learn
-nltk 
-Flask
-numpy
-pandas
-sqlalchemy
+sikit-learn   
+nltk    
+Flask   
+numpy   
+pandas   
+sqlalchemy   
 
 
 ## Project Motivation<a name="motivation"></a>
