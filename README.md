@@ -53,6 +53,9 @@ There are three main foleders:
 
 3. A Flask app was created to show data visualization and classify the message that user enters on the web page.
 
+An example of how the app classify the message.
+Original message "Please, we need tents and water. We are in Silo, Thank you!"
+<img src="app message screeshot.png" width="80%" alt="disaster response project web app">
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
