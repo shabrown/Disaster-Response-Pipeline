@@ -29,15 +29,18 @@ A web app is included where an emergency worker can input a new message and get 
 
 ## File Descriptions <a name="files"></a>
 
-There are three main foleders:
+Inside the workspace folder, there are three main foleders:
+
 1. data
     - disaster_categories.csv: dataset including all the categories 
     - disaster_messages.csv: dataset including all the messages
     - process_data.py: ETL pipeline scripts to read, clean, and save data into a database
     - DisasterResponse.db: output of the ETL pipeline, i.e. SQLite database containing messages and categories data
+    
 2. models
     - train_classifier.py: machine learning pipeline scripts to train and export a classifier
     - classifier.pkl: output of the machine learning pipeline, i.e. a trained classifer
+    
 3. app
     - run.py: Flask file to run the web application
     - templates contains html file for the web applicatin
